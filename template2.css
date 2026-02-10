@@ -1,0 +1,11 @@
+body{background:#060816;color:#fff;font-family:Inter,Segoe UI,sans-serif;overflow-x:hidden}
+.bg-grid{position:fixed;inset:0;background:linear-gradient(transparent 31px,#00f5ff12 32px),linear-gradient(90deg,transparent 31px,#00f5ff12 32px);background-size:32px 32px;z-index:-2}
+.nav-neon{background:#02030fcc;backdrop-filter:blur(8px);border-bottom:1px solid #00f5ff55}.navbar-brand,.nav-link{color:#d7faff!important}
+.hero-neon{padding-top:100px;min-height:90vh;display:flex;align-items:center;background:radial-gradient(circle at 15% 20%,#1d4ed866,#020617 45%),radial-gradient(circle at 85% 70%,#0ea5e966,#020617 35%)}
+.chip{display:inline-block;border:1px solid #22d3ee;padding:.35rem .75rem;border-radius:999px;color:#67e8f9}
+.glow-card{border:1px solid #22d3ee66;background:#0b112999;box-shadow:0 0 30px #22d3ee33;border-radius:20px;padding:1.5rem}
+.btn-cyan{background:#22d3ee;color:#03111a;border:none}.btn-cyan:hover{background:#67e8f9}
+.neon-box{height:100%;border:1px solid #22d3ee55;border-radius:16px;padding:1.4rem;background:#0b122a99;box-shadow:0 0 20px #22d3ee22;transition:.3s}
+.neon-box:hover{transform:translateY(-6px);box-shadow:0 0 30px #22d3ee66}.neon-box i{font-size:1.6rem;color:#22d3ee}
+.cta-neon{border-radius:20px;background:linear-gradient(130deg,#082f49,#0e7490,#155e75);border:1px solid #67e8f9aa}
+.dropdown-menu{border:1px solid #22d3ee55}
