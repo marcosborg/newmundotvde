@@ -1,6 +1,0 @@
-body{margin:0;min-height:100vh;background:linear-gradient(130deg,#3b82f6,#8b5cf6,#ec4899);font-family:Inter,Segoe UI,sans-serif;color:#fff;overflow-x:hidden}
-.blob{position:fixed;border-radius:50%;filter:blur(20px);opacity:.5;z-index:-1}.b1{width:280px;height:280px;background:#22d3ee;top:8%;left:8%}.b2{width:340px;height:340px;background:#f59e0b;right:10%;top:22%}.b3{width:240px;height:240px;background:#a78bfa;left:30%;bottom:5%}
-.nav-glass{background:#ffffff22;backdrop-filter:blur(12px);border-bottom:1px solid #ffffff55}.navbar-brand,.nav-link{color:#fff!important}
-.hero{padding-top:120px}.glass{background:#ffffff20;border:1px solid #ffffff66;border-radius:24px;backdrop-filter:blur(18px);box-shadow:0 10px 40px #0003}
-.cardx{height:100%;padding:1.5rem}.cardx i{font-size:1.8rem}
-.dropdown-menu{background:#ffffffee}

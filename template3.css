@@ -1,9 +1,0 @@
-body{font-family:Inter,Segoe UI,sans-serif;background:#0f0f10;color:#f6f3ed}
-.nav-lux{background:#0f0f10dd;border-bottom:1px solid #d1b16f55}.navbar-brand,.nav-link{color:#f6f3ed!important}
-.hero{min-height:88vh;background:radial-gradient(circle at 15% 20%,#d1b16f2a 0,#0f0f10 45%),linear-gradient(130deg,#0f0f10,#1a1a1b)}
-.eyebrow{color:#d1b16f;letter-spacing:.2em;text-transform:uppercase;font-size:.75rem}
-.btn-gold{background:#d1b16f;color:#1b1407;border:none}.btn-gold:hover{background:#e6c889}
-.panel{padding:2rem;border:1px solid #d1b16f66;border-radius:18px;background:linear-gradient(150deg,#191919,#121212);box-shadow:0 24px 60px #0008}
-.card-lux{height:100%;padding:1.4rem;border-radius:14px;border:1px solid #d1b16f44;background:#151516;transition:.3s}.card-lux:hover{transform:translateY(-5px);border-color:#d1b16faa}
-.cta{border-radius:18px;background:linear-gradient(120deg,#2b2110,#3a2b13,#5f461f);border:1px solid #d1b16f77}
-.dropdown-menu{background:#161617;border:1px solid #d1b16f66}.dropdown-item{color:#f3ead5}.dropdown-item.active{background:#d1b16f;color:#21170a}
